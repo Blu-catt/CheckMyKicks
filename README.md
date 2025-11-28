@@ -4,7 +4,7 @@
 
 <img src="https://via.placeholder.com/220x220/FFB6C1/FFFFFF?text=👟%0A✨%0ACheckMyKicks%0A✨%0AAPI" alt="CheckMyKicks Logo" width="220" height="220" style="border-radius: 50%; border: 4px solid #FFB6C1; box-shadow: 0 8px 16px rgba(255,182,193,0.3);">
 
-*✨ Kawaii shoe verification service with magical image analysis and sparkly Virtual Account payments ✨*
+*✨  ✨*
 
 <div style="margin: 20px 0;">
   
